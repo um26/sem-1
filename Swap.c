@@ -1,4 +1,4 @@
-// Write a C program to swap two numbers without using third variable.
+// Write a C program to swap two numbers.
 
 #include<stdio.h>
 int main()
